@@ -1,8 +1,8 @@
 # dva-simplificado
 este es un script que a su vez corre dos
 
-Como puedo correr esta aplicación?\n
-bash dva.sh
+- Como puedo correr esta aplicación?
+- bash dva.sh
 
 Para que sirve esta aplicación?
 Te premite descargar video o audio mediante el ingreso de una url.
